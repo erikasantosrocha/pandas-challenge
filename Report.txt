@@ -1,0 +1,14 @@
+Py City Schools
+Written Report
+
+The PyCitySchool dataset contains math and reading scores for a student population from 15 different schools. The data includes information
+such as students' name, genders and grades, as well as school name, school type, school sizes and budgets.
+The analysis aims to provide a summary of metrics based on math and reading performance in relation to school type, grade, etc.
+
+The summary reveals that charter schools have higher performance in both math and reading compared to district schools. This conclusion
+is also reflected in the top 5 performing schools, which are medium-sized charter schools. On the other hand, the lowest performing
+schools are district schools.
+
+Regardless of school type and grade, it can be observed that students' math scores are lower than the reading scores.
+Additionally, it is noted that students in higher spending ranges have, on average, lower math and reading scores. Similarly, schools with 
+larger student populations demonstrate lower performance than smaller schools.
